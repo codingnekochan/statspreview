@@ -83,7 +83,7 @@ h2 span{
 @media(max-width:500px) {
    .container{
     flex-wrap: wrap;
-    padding: 2em; 
+    padding: 4em; 
    }
    img, .header::after{
     border-radius: 15px 15px 0 0;
